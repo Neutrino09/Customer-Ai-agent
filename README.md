@@ -25,7 +25,8 @@ Below is a screenshot of the Langflow flow used to power the AI's decision-makin
 ### Application UI
 Here's what the application interface looks like in action:
 
-![App UI]()
+<img width="1424" alt="Screenshot 2025-03-19 at 11 11 41 PM" src="https://github.com/user-attachments/assets/6b3491e5-5a2a-4635-9e0d-544e0814fb0b" />
+
 
 ## Summary
 
