@@ -19,12 +19,13 @@ The Customer AI Agent is an interactive web application designed to streamline c
 ### Langflow Flow Diagram
 Below is a screenshot of the Langflow flow used to power the AI's decision-making process:
 
-![Langflow Flow](path/to/your/langflow-flow.png)
+![Langflow Flow]<img width="1470" alt="Screenshot 2025-03-19 at 11 26 45 PM" src="https://github.com/user-attachments/assets/a3ef4cb8-e0b9-426e-86b2-f0911e66c6e1" />
+
 
 ### Application UI
 Here's what the application interface looks like in action:
 
-![App UI](path/to/your/app-ui.png)
+![App UI]()
 
 ## Summary
 
